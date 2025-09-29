@@ -41,5 +41,5 @@ Il a été réalisé en **groupe de 4 étudiants**.
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/im31200/SAE_S2-01_2025.git
+   git clone https://github.com/ImamMagadiyev/SAE_S2-01_2025.git
    cd SAE_S2-01_2025
